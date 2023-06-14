@@ -987,3 +987,5 @@ Recommended: 22.2.2
 [2023.06.14-10.56.51:160][  0]LogSlate: Took 0.030799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.06.14-10.56.55:662][  4]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
 [2023.06.14-10.57.05:938][ 16]LogSlate: Took 0.037072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.14-11.56.25:339][970]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.204 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.14-12.56.25:220][727]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.202 and deleted 0 file(s) with total size 0 MiB.
