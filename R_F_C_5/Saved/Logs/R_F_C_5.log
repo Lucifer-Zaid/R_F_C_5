@@ -2424,3 +2424,20 @@ Recommended: 22.2.2
 [2023.06.16-13.52.08:753][621]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.221
 [2023.06.16-13.52.17:848][650]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.944 and deleted 0 file(s) with total size 0 MiB.
 [2023.06.16-13.53.15:646][820]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.16-13.55.43:670][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ROOMBA/Maps/RoboMap" FILE="../../../../../Personal Projects/R_F_C_5/R_F_C_5/Content/ROOMBA/Maps/RoboMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.16-13.55.43:814][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.16-13.55.43:907][254]LogSavePackage: Moving output files for package: /Game/ROOMBA/Maps/RoboMap
+[2023.06.16-13.55.43:908][254]LogSavePackage: Moving '../../../../../Personal Projects/R_F_C_5/R_F_C_5/Saved/RoboMap8EEEA45E46A9E9006F016A9230AF1C44.tmp' to '../../../../../Personal Projects/R_F_C_5/R_F_C_5/Content/ROOMBA/Maps/RoboMap.umap'
+[2023.06.16-13.55.45:059][254]LogFileHelpers: No new changes to save!
+[2023.06.16-13.55.45:087][254]AssetCheck: New page: Asset Save: RoboMap
+[2023.06.16-13.55.45:087][254]LogContentValidation: Display: Validating World /Game/ROOMBA/Maps/RoboMap.RoboMap
+[2023.06.16-13.55.51:144][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ROOMBA/BP/BP_Robo" FILE="../../../../../Personal Projects/R_F_C_5/R_F_C_5/Content/ROOMBA/BP/BP_Robo.uasset" SILENT=true
+[2023.06.16-13.55.51:214][335]LogSavePackage: Moving output files for package: /Game/ROOMBA/BP/BP_Robo
+[2023.06.16-13.55.51:215][335]LogSavePackage: Moving '../../../../../Personal Projects/R_F_C_5/R_F_C_5/Saved/BP_Robo6BBF45A644F9D5122EA68FAF00191CD4.tmp' to '../../../../../Personal Projects/R_F_C_5/R_F_C_5/Content/ROOMBA/BP/BP_Robo.uasset'
+[2023.06.16-13.55.51:244][335]AssetCheck: New page: Asset Save: BP_Robo
+[2023.06.16-13.55.51:244][335]LogContentValidation: Display: Validating Blueprint /Game/ROOMBA/BP/BP_Robo.BP_Robo
+[2023.06.16-13.55.56:893][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ROOMBA/BP/Romba_GM_BP" FILE="../../../../../Personal Projects/R_F_C_5/R_F_C_5/Content/ROOMBA/BP/Romba_GM_BP.uasset" SILENT=true
+[2023.06.16-13.55.57:188][356]LogSavePackage: Moving output files for package: /Game/ROOMBA/BP/Romba_GM_BP
+[2023.06.16-13.55.57:188][356]LogSavePackage: Moving '../../../../../Personal Projects/R_F_C_5/R_F_C_5/Saved/Romba_GM_BP4EBB44B4443B45199ECB8B8B6353DC4A.tmp' to '../../../../../Personal Projects/R_F_C_5/R_F_C_5/Content/ROOMBA/BP/Romba_GM_BP.uasset'
+[2023.06.16-13.55.57:441][356]AssetCheck: New page: Asset Save: Romba_GM_BP
+[2023.06.16-13.55.57:441][356]LogContentValidation: Display: Validating Blueprint /Game/ROOMBA/BP/Romba_GM_BP.Romba_GM_BP
